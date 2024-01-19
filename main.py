@@ -22,7 +22,7 @@ movies = [
     {
     "id": 1,
     "title": "Avatar",
-    "overview": "Puta qué rico hehee!",
+    "overview": "Domina todos los elementos",
     "year": "2009",
     "rating": 7.8,
     "category": "Accion"
@@ -30,7 +30,7 @@ movies = [
     {
     "id": 2,
     "title": "Avatar 2",
-    "overview": "Puta qué rico hehee!",
+    "overview": "Domina todos los elementos",
     "year": "2009",
     "rating": 7.8,
     "category": "Accion"
